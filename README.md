@@ -1,3 +1,4 @@
+![logo](https://github.com/DeepsankarBhattacharya/DeepsankarBhattacharya/blob/main/My%20Banner.png)
 <h1 align="center">Hi 👋, I'm Deepsankar Bhattacharya</h1>
 <h3 align="center">I am passionate in Data Science from India</h3>
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/235224431-e8c8c12e-6826-47f1-89fb-2ddad83b3abf.gif">
